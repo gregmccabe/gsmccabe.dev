@@ -1,0 +1,64 @@
+body {
+    background-image: url('../img/header-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+.row {
+    margin: 5% 3%;
+}
+
+#king {
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+}
+
+#logo {
+    margin: auto;
+    padding-top: 5%;
+}
+
+.box_opacity {
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: 2%;
+    display: inline-block;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.5);
+}
+
+.floatDiv {
+    float: left;
+}
+
+.form-div {
+    background-color: #ffffff;
+    padding: 5%;
+}
+
+.form-control {
+    border-radius: 0 !important;
+    border: 2px #be1d2d solid !important;
+}
+
+label {
+    color: #be1d2d;
+}
+
+.submit-btn {
+    background-color: #be1d2d;
+    border-radius: 0;
+    color: #ffffff;
+}
+
+.authorized {
+    color: #ffffff;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.white {
+    border: 1px #ffffff solid;
+}
+
+.button img {
+    margin: auto;
+}
